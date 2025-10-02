@@ -1,10 +1,10 @@
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
-You are working for a property management company renting rooms and properties for short periods of 
-time on various rental platforms. You need to estimate the typical price for a given property based 
-on the price of similar properties. Your company receives new data in bulk every week. The model needs 
-to be retrained with the same cadence, necessitating an end-to-end pipeline that can be reused.
 
-In this project you will build such a pipeline.
+## Repository Links:
+- GitHub: https://github.com/arimtannn/Project-Build-an-ML-Pipeline-Starter
+- W%B: https://wandb.ai/arimtannn-western-governors-university/nyc_airbnb?nw=nwuserarimtannn
+
+*NOTE: My W&B account is classified as an organization account, which disables me to share publicly. I have tried to find a work-around to this, but the easiest way to grant access, without having to restart my progross, is through personally adding graders to access this project.*
 
 ## Table of contents
 

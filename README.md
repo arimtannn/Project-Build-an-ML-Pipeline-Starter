@@ -4,7 +4,7 @@
 - GitHub: https://github.com/arimtannn/Project-Build-an-ML-Pipeline-Starter
 - W%B: https://wandb.ai/arimtannn-western-governors-university/nyc_airbnb?nw=nwuserarimtannn
 
-*NOTE: My W&B account is classified as an organization account, which disables me to share publicly. I have tried to find a work-around to this, but the easiest way to grant access, without having to restart my progross, is through personally adding graders to access this project.*
+*NOTE: My W&B account is classified as an organization account, which disables me to share publicly. I have tried to find a work-around to this, but the easiest way to grant access, without having to restart my progress, is through personally adding graders to access this project.*
 
 ## Table of contents
 
